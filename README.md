@@ -2,6 +2,7 @@
 **In this project you can draw a graph of your function**
 
 *Example:*
+
 <img src=".github-work/sinx.gif">
 
 <img src=".github-work/sqrtsincosx.gif">
